@@ -1,0 +1,26 @@
+---
+import config from "../../data/config.json";
+import EditionCrafter, { TagExplore } from "@cu-mkp/editioncrafter";
+import Navbar from "../components/Navbar.astro";
+import { getUrl } from "../util/path";
+---
+
+<html>
+  <link rel="icon" type="image/x-icon" href=`${getUrl('ec_logo.svg')}` />
+  <title>EditionCrafter</title>
+  <body>
+    <Navbar />
+    {
+      config.tagExplorer === "true" ? (
+        <TagExplore {...config} client:only="react" />
+      ) : (
+        <EditionCrafter {...config} client:only="react" />
+      )
+    }
+  </body>
+</html>
+<style>
+  body {
+    margin: 0;
+  }
+</style>
