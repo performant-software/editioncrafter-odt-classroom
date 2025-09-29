@@ -6,6 +6,10 @@ This repo is based on the "EditionCrafter Project React Template" and works the 
 
 The following scripts are included to pull in data from the O:D:T Corpora database as needed.
 
+Because of the large number of files this generates, when you go to commit them using git, you may encounter an error. To fix this, increase the POST buffer size for git:
+
+`git config http.postBuffer 524288000`
+
 Notes:
 * npm link command
 * how to run the database command

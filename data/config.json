@@ -1,12 +1,12 @@
 {
   "id": "ec",
   "documentName": "Ornament : Design : Translation",
-  "dbUrl": "/editioncrafter-odt/odt-fcc2-2.sqlite",
+  "dbUrl": "/editioncrafter-odt-classroom/odt-fcc2-2.sqlite",
   "transcriptionTypes": {
     "translation": "Translation",
     "transcription": "Transcription"
   },
-  "viewerUrl": "/editioncrafter-odt",
+  "viewerUrl": "/editioncrafter-odt-classroom",
   "tagExplorer": "true",
-  "baseURL": "/editioncrafter-odt"
+  "baseURL": "/editioncrafter-odt-classroom"
 }
