@@ -45,7 +45,162 @@
 					"Designs for Pendants (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z000",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:335.1276550292969,120.62306213378906,1025.2960510253906,729.7695159912109"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z001",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:1137.27099609375,1145.9190673828125,826.26806640625,1200.1995849609375"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z002",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:1981.6324462890625,1676.6605224609375,313.6199951171875,410.1185302734375"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z003",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:496.9637451171875,2854.74560546875,757.2447509765625,529.401123046875"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z004",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:1743.4019775390625,2827.9404296875,683.5306396484375,562.90771484375"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z005",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:483.5611877441406,2218.1240234375,435.5832214355469,462.38818359375"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0003_z006",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:1240.805908203125,2707.3173828125,495.894775390625,448.98583984375"
+							}
+						]
+					}
+				}
+			]
 		}
 	],
 	"label": {
