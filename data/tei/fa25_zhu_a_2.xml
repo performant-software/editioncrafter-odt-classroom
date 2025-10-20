@@ -1,8 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:id="header">
-		<fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc25209df9aa20e9eb3bf3">
+		<fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc25de9df9aa20e9eb3c0d">
 			<titleStmt>
-				<title>FA25 Shiosaki C</title>
+				<title>FA25 Zhu A</title>
 			</titleStmt>
 			<publicationStmt>
 				<authority/>
@@ -806,9 +806,31 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile xml:id="prints">
-		<surface xml:id="f0027" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b25a3da12d491d55e78">
-			<label>Iacobus Androuetius… (27)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/hqMgO"/>
+		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b13a3da12d491d55bc1">
+			<label>Designs for Pendants (3)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/DUagq"/>
+			<zone xml:id="f0003_z000" ulx="335.1276550292969" uly="120.62306213378906" lrx="1360.4237060546875" lry="850.392578125" ana="">
+				<note>Geometric motifs as ribbon-like spirals, represent simple shapes.</note>
+			</zone>
+			<zone xml:id="f0003_z001" ulx="1137.27099609375" uly="1145.9190673828125" lrx="1963.5390625" lry="2346.11865234375" ana="">
+				<note>Architectural motif as the central figure contains columns and arches</note>
+			</zone>
+			<zone xml:id="f0003_z002" ulx="1981.6324462890625" uly="1676.6605224609375" lrx="2295.25244140625" lry="2086.779052734375" ana="">
+				<note>Floral motif, such as the vine and leaf decorations 
+represent plant life</note>
+			</zone>
+			<zone xml:id="f0003_z003" ulx="496.9637451171875" uly="2854.74560546875" lrx="1254.20849609375" lry="3384.146728515625" ana="">
+				<note>Floral motif as there are plant designs</note>
+			</zone>
+			<zone xml:id="f0003_z004" ulx="1743.4019775390625" uly="2827.9404296875" lrx="2426.9326171875" lry="3390.84814453125" ana="">
+				<note>Geometric motif, too, because of the complex shape</note>
+			</zone>
+			<zone xml:id="f0003_z005" ulx="483.5611877441406" uly="2218.1240234375" lrx="919.1444091796875" lry="2680.51220703125" ana="">
+				<note>Freeform motif, as it's just an oval shape hanging</note>
+			</zone>
+			<zone xml:id="f0003_z006" ulx="1240.805908203125" uly="2707.3173828125" lrx="1736.70068359375" lry="3156.30322265625" ana="">
+				<note>Geometric motif represents complex shapes</note>
+			</zone>
 		</surface>
 	</facsimile>
 	<text xml:id="transcription">

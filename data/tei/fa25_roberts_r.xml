@@ -90,6 +90,9 @@
 								<category n="cattle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4679df9aa20e9eb3abb" xml:id="cattle">
 									<catDesc>cattle</catDesc>
 								</category>
+								<category n="wolf" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc36e5b2e05341c26f4d8" xml:id="wolf">
+									<catDesc>wolf</catDesc>
+								</category>
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943c">
 								<catDesc>aquatic</catDesc>
@@ -105,6 +108,12 @@
 								<category n="frog" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4279df9aa20e9eb3ab7" xml:id="frog">
 									<catDesc>frog</catDesc>
 								</category>
+								<category n="eel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e937095b2e05341c26f4a3" xml:id="eel">
+									<catDesc>eel</catDesc>
+								</category>
+								<category n="mussel_shell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc38c5b2e05341c26f4da" xml:id="mussel_shell">
+									<catDesc>mussel_shell</catDesc>
+								</category>
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69440">
 								<catDesc>bird</catDesc>
@@ -119,6 +128,21 @@
 								</category>
 								<category n="bird" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adce6017f659532e55c00b" xml:id="bird">
 									<catDesc>bird</catDesc>
+								</category>
+								<category n="chicken" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e928855b2e05341c26f49a" xml:id="chicken">
+									<catDesc>chicken</catDesc>
+								</category>
+								<category n="goose" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9364d5b2e05341c26f49d" xml:id="goose">
+									<catDesc>goose</catDesc>
+								</category>
+								<category n="swan" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e936c05b2e05341c26f4a1" xml:id="swan">
+									<catDesc>swan</catDesc>
+								</category>
+								<category n="stork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94b3a5b2e05341c26f4b6" xml:id="stork">
+									<catDesc>stork</catDesc>
+								</category>
+								<category n="peacock" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9673b5b2e05341c26f4c7" xml:id="peacock">
+									<catDesc>peacock</catDesc>
 								</category>
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69443">
@@ -171,6 +195,12 @@
 										<catDesc>animal_skull</catDesc>
 									</category>
 								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e927aa5b2e05341c26f495">
+									<catDesc>bone</catDesc>
+									<category n="bone" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9399c5b2e05341c26f4ac" xml:id="bone">
+										<catDesc>bone</catDesc>
+									</category>
+								</category>
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69452">
 								<catDesc>part</catDesc>
@@ -192,8 +222,14 @@
 								<category n="talon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69458" xml:id="talon">
 									<catDesc>talon</catDesc>
 								</category>
-								<category n="shell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945a" xml:id="shell">
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945a">
 									<catDesc>shell</catDesc>
+									<category n="clam_shell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e927df5b2e05341c26f497" xml:id="clam_shell">
+										<catDesc>clam_shell</catDesc>
+									</category>
+									<category n="oyster_shell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e937295b2e05341c26f4a5" xml:id="oyster_shell">
+										<catDesc>oyster_shell</catDesc>
+									</category>
 								</category>
 								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945b">
 									<catDesc>tail</catDesc>
@@ -271,6 +307,12 @@
 							<category n="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc" xml:id="angel_01">
 								<catDesc>angel</catDesc>
 							</category>
+							<category n="sea_monster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9279a5b2e05341c26f494" xml:id="sea_monster">
+								<catDesc>sea_monster</catDesc>
+							</category>
+							<category n="centaur" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e936935b2e05341c26f49f" xml:id="centaur">
+								<catDesc>centaur</catDesc>
+							</category>
 						</category>
 						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 							<catDesc>vegetal</catDesc>
@@ -319,6 +361,15 @@
 							<category n="furled_frond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd960f5b2e05341c26f351" xml:id="furled_frond">
 								<catDesc>furled_frond</catDesc>
 							</category>
+							<category n="grapevine" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9455f5b2e05341c26f4b1" xml:id="grapevine">
+								<catDesc>grapevine</catDesc>
+							</category>
+							<category n="vegetal_crown" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94ea05b2e05341c26f4ba" xml:id="vegetal_crown">
+								<catDesc>vegetal_crown</catDesc>
+							</category>
+							<category n="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb" xml:id="stalk">
+								<catDesc>stalk</catDesc>
+							</category>
 						</category>
 					</category>
 					<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
@@ -329,7 +380,7 @@
 								<catDesc>pedestal</catDesc>
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69485">
-								<catDesc>column</catDesc>
+								<catDesc>columns_and_capitals</catDesc>
 								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69486">
 									<catDesc>square_column</catDesc>
 									<category n="doric_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92005b2e05341c26f348" xml:id="doric_square_column">
@@ -426,6 +477,9 @@
 											<category n="putto_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add3a517f659532e55c02b" xml:id="putto_term">
 												<catDesc>putto_term</catDesc>
 											</category>
+											<category n="angel_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc2f55b2e05341c26f4d3" xml:id="angel_term">
+												<catDesc>angel_term</catDesc>
+											</category>
 										</category>
 									</category>
 									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd70375b2e05341c26f331">
@@ -459,6 +513,9 @@
 								<category n="corinthian_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91575b2e05341c26f343" xml:id="corinthian_column">
 									<catDesc>corinthian_column</catDesc>
 								</category>
+								<category n="column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9587b5b2e05341c26f4c2" xml:id="column">
+									<catDesc>column</catDesc>
+								</category>
 							</category>
 							<category n="console" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949b" xml:id="console">
 								<catDesc>console</catDesc>
@@ -472,8 +529,11 @@
 							<category n="pediment" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949e" xml:id="pediment">
 								<catDesc>pediment</catDesc>
 							</category>
-							<category n="arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f" xml:id="arch">
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f">
 								<catDesc>arch</catDesc>
+								<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
+									<catDesc>half_arch</catDesc>
+								</category>
 							</category>
 							<category n="niche" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a0" xml:id="niche">
 								<catDesc>niche</catDesc>
@@ -504,6 +564,9 @@
 								<category n="spike_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf5317f659532e55c011" xml:id="spike_stud">
 									<catDesc>spike_stud</catDesc>
 								</category>
+								<category n="gem_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e937955b2e05341c26f4aa" xml:id="gem_stud">
+									<catDesc>gem_stud</catDesc>
+								</category>
 							</category>
 							<category n="rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694ac" xml:id="rivet_hole">
 								<catDesc>rivet_hole</catDesc>
@@ -522,6 +585,15 @@
 								<category n="corinthian_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91b85b2e05341c26f347" xml:id="corinthian_capital">
 									<catDesc>corinthian_capital</catDesc>
 								</category>
+							</category>
+							<category n="stairs" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cb35b2e05341c26f4b7" xml:id="stairs">
+								<catDesc>stairs</catDesc>
+							</category>
+							<category n="unpunched_rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94ccc5b2e05341c26f4b8" xml:id="unpunched_rivet_hole">
+								<catDesc>unpunched_rivet_hole</catDesc>
+							</category>
+							<category n="dome" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955265b2e05341c26f4c0" xml:id="dome">
+								<catDesc>dome</catDesc>
 							</category>
 						</category>
 						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b0">
@@ -551,6 +623,12 @@
 								</category>
 								<category n="bird_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694bd" xml:id="bird_mask">
 									<catDesc>bird_mask</catDesc>
+								</category>
+								<category n="dolphin_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9286f5b2e05341c26f499" xml:id="dolphin_mask">
+									<catDesc>dolphin_mask</catDesc>
+								</category>
+								<category n="deer_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc37d5b2e05341c26f4d9" xml:id="deer_mask">
+									<catDesc>deer_mask</catDesc>
 								</category>
 							</category>
 							<category n="monster_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c0" xml:id="monster_mask">
@@ -594,6 +672,18 @@
 							</category>
 							<category n="interlace" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd98105b2e05341c26f352" xml:id="interlace">
 								<catDesc>interlace</catDesc>
+							</category>
+							<category n="strapwork_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e954405b2e05341c26f4bc" xml:id="strapwork_pattern">
+								<catDesc>strapwork_pattern</catDesc>
+							</category>
+							<category n="mixed_motif_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9544f5b2e05341c26f4bd" xml:id="mixed_motif_pattern">
+								<catDesc>mixed_motif_pattern</catDesc>
+							</category>
+							<category n="text_decoration" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e962d95b2e05341c26f4c6" xml:id="text_decoration">
+								<catDesc>text_decoration</catDesc>
+							</category>
+							<category n="floral_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc3615b2e05341c26f4d7" xml:id="floral_pattern">
+								<catDesc>floral_pattern</catDesc>
 							</category>
 						</category>
 						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d0">
@@ -656,8 +746,11 @@
 								</category>
 								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e6">
 									<catDesc>instrument</catDesc>
-									<category n="stringed" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f4" xml:id="stringed">
-										<catDesc>stringed</catDesc>
+									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f4">
+										<catDesc>stringed_instrument</catDesc>
+										<category n="lyre" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e927cf5b2e05341c26f496" xml:id="lyre">
+											<catDesc>lyre</catDesc>
+										</category>
 									</category>
 								</category>
 								<category n="fruit_vegetable" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e7" xml:id="fruit_vegetable">
@@ -674,6 +767,9 @@
 								</category>
 								<category n="clothing" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcfed17f659532e55c013" xml:id="clothing">
 									<catDesc>clothing</catDesc>
+								</category>
+								<category n="loincloth" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e936f35b2e05341c26f4a2" xml:id="loincloth">
+									<catDesc>loincloth</catDesc>
 								</category>
 							</category>
 							<category n="candelabra" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694eb" xml:id="candelabra">
@@ -749,6 +845,9 @@
 									<category n="vertical_banner" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add40f17f659532e55c030" xml:id="vertical_banner">
 										<catDesc>vertical_banner</catDesc>
 									</category>
+									<category n="flag" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9285b5b2e05341c26f498" xml:id="flag">
+										<catDesc>flag</catDesc>
+									</category>
 								</category>
 							</category>
 							<category n="smoke" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69509" xml:id="smoke">
@@ -774,8 +873,26 @@
 							</category>
 							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 								<catDesc>instrument</catDesc>
-								<category n="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014" xml:id="horn_01">
-									<catDesc>horn</catDesc>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+									<catDesc>wind</catDesc>
+									<category n="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e93e665b2e05341c26f4ae" xml:id="horn_01">
+										<catDesc>horn</catDesc>
+									</category>
+									<category n="bagpipes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e93e745b2e05341c26f4af" xml:id="bagpipes">
+										<catDesc>bagpipes</catDesc>
+									</category>
+									<category n="pan_pipes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e93e7f5b2e05341c26f4b0" xml:id="pan_pipes">
+										<catDesc>pan_pipes</catDesc>
+									</category>
+								</category>
+								<category n="bell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e974a45b2e05341c26f4c8" xml:id="bell">
+									<catDesc>bell</catDesc>
+								</category>
+								<category n="drum" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e974ad5b2e05341c26f4c9" xml:id="drum">
+									<catDesc>drum</catDesc>
+								</category>
+								<category n="instrument_unknown" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9810c5b2e05341c26f4cb" xml:id="instrument_unknown">
+									<catDesc>instrument_unknown</catDesc>
 								</category>
 							</category>
 							<category n="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0" xml:id="drinking_vessel">
@@ -790,6 +907,87 @@
 							<category n="coat_of_arms" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4499df9aa20e9eb3ab9" xml:id="coat_of_arms">
 								<catDesc>coat_of_arms</catDesc>
 							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e928b85b2e05341c26f49b">
+								<catDesc>arms_and_armor</catDesc>
+								<category n="bow_and_arrow" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e928bb5b2e05341c26f49c" xml:id="bow_and_arrow">
+									<catDesc>bow_and_arrow</catDesc>
+								</category>
+								<category n="club" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e936af5b2e05341c26f4a0" xml:id="club">
+									<catDesc>club</catDesc>
+								</category>
+								<category n="flail" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e937195b2e05341c26f4a4" xml:id="flail">
+									<catDesc>flail</catDesc>
+								</category>
+								<category n="bec_de_corbin" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e974cb5b2e05341c26f4ca" xml:id="bec_de_corbin">
+									<catDesc>bec_de_corbin</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e937485b2e05341c26f4a6">
+								<catDesc>tools</catDesc>
+								<category n="shovel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9374a5b2e05341c26f4a7" xml:id="shovel">
+									<catDesc>shovel</catDesc>
+								</category>
+								<category n="scythe" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9375d5b2e05341c26f4a8" xml:id="scythe">
+									<catDesc>scythe</catDesc>
+								</category>
+								<category n="distaff" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9550f5b2e05341c26f4be" xml:id="distaff">
+									<catDesc>distaff</catDesc>
+								</category>
+								<category n="spindle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9551c5b2e05341c26f4bf" xml:id="spindle">
+									<catDesc>spindle</catDesc>
+								</category>
+								<category n="compass" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc33a5b2e05341c26f4d5" xml:id="compass">
+									<catDesc>compass</catDesc>
+								</category>
+								<category n="ruler" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc3535b2e05341c26f4d6" xml:id="ruler">
+									<catDesc>ruler</catDesc>
+								</category>
+							</category>
+							<category n="staff" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e948725b2e05341c26f4b2" xml:id="staff">
+								<catDesc>staff</catDesc>
+							</category>
+							<category n="balance_scale" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94a165b2e05341c26f4b3" xml:id="balance_scale">
+								<catDesc>balance_scale</catDesc>
+							</category>
+							<category n="fan" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94a2c5b2e05341c26f4b4" xml:id="fan">
+								<catDesc>fan</catDesc>
+							</category>
+							<category n="bowl" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94af35b2e05341c26f4b5" xml:id="bowl">
+								<catDesc>bowl</catDesc>
+							</category>
+							<category n="statue" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e95b6c5b2e05341c26f4c3" xml:id="statue">
+								<catDesc>statue</catDesc>
+							</category>
+							<category n="basket" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e962b75b2e05341c26f4c4" xml:id="basket">
+								<catDesc>basket</catDesc>
+							</category>
+							<category n="globe" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e962c85b2e05341c26f4c5" xml:id="globe">
+								<catDesc>globe</catDesc>
+							</category>
+							<category n="granule" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9823c5b2e05341c26f4cc" xml:id="granule">
+								<catDesc>granule</catDesc>
+							</category>
+							<category n="sun" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc2805b2e05341c26f4ce" xml:id="sun">
+								<catDesc>sun</catDesc>
+							</category>
+							<category n="chariot" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc2915b2e05341c26f4cf" xml:id="chariot">
+								<catDesc>chariot</catDesc>
+							</category>
+							<category n="wagon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc29f5b2e05341c26f4d0" xml:id="wagon">
+								<catDesc>wagon</catDesc>
+							</category>
+							<category n="throne" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc2af5b2e05341c26f4d1" xml:id="throne">
+								<catDesc>throne</catDesc>
+							</category>
+							<category n="amphora" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc2be5b2e05341c26f4d2" xml:id="amphora">
+								<catDesc>amphora</catDesc>
+							</category>
+							<category n="armillary_sphere" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ecc32b5b2e05341c26f4d4" xml:id="armillary_sphere">
+								<catDesc>armillary_sphere</catDesc>
+							</category>
+						</category>
+						<category n="fire" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955645b2e05341c26f4c1" xml:id="fire">
+							<catDesc>fire</catDesc>
 						</category>
 					</category>
 					<category n="problem" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69510" xml:id="problem">
@@ -800,6 +998,12 @@
 					</category>
 					<category n="dog_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f0c5b2e05341c26f33c" xml:id="dog_column">
 						<catDesc>dog_column</catDesc>
+					</category>
+					<category n="hourglass" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e927685b2e05341c26f493" xml:id="hourglass">
+						<catDesc>hourglass</catDesc>
+					</category>
+					<category n="jaw_bone" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e936815b2e05341c26f49e" xml:id="jaw_bone">
+						<catDesc>jaw_bone</catDesc>
 					</category>
 				</taxonomy>
 			</classDecl>
@@ -814,40 +1018,45 @@
 			<zone xml:id="f0021_z002" points="1243.855224609375,352.1994934082031 1243.855224609375,360.9544372558594 1191.32568359375,448.5036926269531 1156.3060302734375,614.8472290039062 1007.4722900390625,754.9260864257812 919.9230346679688,772.4359130859375 1007.4722900390625,895.0048828125 1173.81591796875,798.70068359375 1217.5904541015625,956.289306640625 1261.3651123046875,772.4359130859375 1322.649658203125,719.9063720703125 1392.68896484375,597.33740234375 1532.767822265625,719.9063720703125 1357.6693115234375,527.2980346679688 1541.522705078125,430.99383544921875 1357.6693115234375,448.5036926269531 1243.855224609375,290.9150390625 1138.796142578125,325.9347229003906 1130.041259765625,325.9347229003906" ana="#dog"/>
 			<zone xml:id="f0021_z003" points="2970.4794921875,419.6611022949219 2970.4794921875,413.581298828125 3055.596923828125,492.6188049316406 3122.474853515625,371.0226135253906 3231.911376953125,340.6235656738281 3177.193115234375,492.6188049316406 3219.751708984375,595.9755249023438 3231.911376953125,711.491943359375 3280.5498046875,845.2477416992188 3347.427734375,948.6044921875 3323.1083984375,1039.8016357421875 3225.83154296875,954.6842651367188 3116.39501953125,942.524658203125 3085.995849609375,1058.041015625 3085.995849609375,881.7265625 3049.51708984375,881.7265625 2994.798828125,1003.32275390625 3049.51708984375,802.6890258789062 3079.916015625,644.614013671875 2982.63916015625,608.1351928710938 2873.20263671875,699.332275390625 2970.4794921875,541.2572631835938 3037.357421875,547.3370971679688 2964.399658203125,431.8207092285156" ana="#dog"/>
 			<zone xml:id="f0021_z004" points="1249.0098876953125,3066.970947265625 1242.9300537109375,3066.970947265625 1242.9300537109375,3237.20556640625 1376.6859130859375,3285.84423828125 1595.5589599609375,3255.445068359375 1875.230224609375,3273.6845703125 1619.8782958984375,3109.52978515625 1431.4041748046875,3073.05078125 1382.7657470703125,2896.736328125 1273.3291015625,2835.938232421875 1218.61083984375,2921.0556640625 1212.531005859375,2921.0556640625" ana="#sphynx"/>
-			<zone xml:id="f0021_z005" points="3058.512939453125,2817.936279296875 3055.47314453125,2814.896484375 3085.8720703125,2909.133544921875 3037.233642578125,2969.931640625 3073.712646484375,3082.407958984375 3104.111572265625,3170.565185546875 3025.073974609375,3216.163818359375 3073.712646484375,3267.84228515625 2936.916748046875,3255.6826171875 2866.9990234375,3194.884521484375 2866.9990234375,3283.041748046875 2727.163330078125,3258.722412109375 2417.09326171875,3264.80224609375 2684.604736328125,3109.76708984375 2839.639892578125,3052.009033203125 2924.75732421875,2890.89404296875 3055.47314453125,2772.337646484375 3052.43310546875,2772.337646484375" ana="#sphynx"/>
-			<zone xml:id="f0021_z006" points="1379.6014404296875,3322.560302734375 1379.6014404296875,3328.64013671875 1288.404296875,3413.757568359375 1318.8033447265625,3517.1142578125 1093.8504638671875,3511.034423828125 1294.484130859375,3596.15185546875 1361.362060546875,3693.4287109375 1428.239990234375,3839.34423828125 1294.484130859375,3979.1796875 1385.6812744140625,4088.616455078125 1525.516845703125,4210.21240234375 1616.7139892578125,4337.888671875 1677.5120849609375,4429.08544921875 1756.5496826171875,4295.330078125 1969.3428955078125,4343.96826171875 1902.465087890625,4173.73388671875 1793.0284423828125,4222.3720703125 1641.033203125,4125.09521484375 1622.7938232421875,3930.541259765625 1574.1553955078125,3742.067138671875 1592.394775390625,3650.8701171875 1458.6390380859375,3517.1142578125 1416.080322265625,3365.119140625 1410.00048828125,3365.119140625" ana="#merwoman"/>
-			<zone xml:id="f0021_z007" points="2869.154541015625,3462.39599609375 2796.197021484375,3602.231689453125 2723.2392578125,3693.4287109375 2869.154541015625,3669.109619140625 2850.915283203125,3833.264404296875 2692.840087890625,3967.020263671875 2668.52099609375,4137.2548828125 2467.88720703125,4149.41455078125 2401.00927734375,4295.330078125 2486.126708984375,4331.80859375 2595.563232421875,4234.53173828125 2674.600830078125,4204.1328125 2753.63818359375,4295.330078125 2674.600830078125,4416.92626953125 2711.07958984375,4514.203125 2777.95751953125,4374.3671875 2814.436279296875,4252.77099609375 2923.873046875,4191.97314453125 2893.473876953125,4052.137451171875 3033.3095703125,4046.0576171875 3075.8681640625,3894.0625 3069.788330078125,3699.508544921875 3063.70849609375,3559.6728515625 3252.1826171875,3456.316162109375 3100.1875,3450.236328125 2960.351806640625,3334.719970703125 2881.314208984375,3389.438232421875 2875.234375,3389.438232421875" ana="#merwoman"/>
-			<zone xml:id="f0021_z008" points="814.1792602539062,1826.9273681640625 814.1792602539062,1833.0072021484375 765.540771484375,1948.5235595703125 862.8176879882812,1978.922607421875 868.8975219726562,2124.838134765625 832.4186401367188,2252.51416015625 735.1417236328125,2064.0400390625 704.74267578125,2191.716064453125 765.540771484375,2282.9130859375 777.7003784179688,2428.82861328125 911.4561767578125,2428.82861328125 954.0148315429688,2355.870849609375 1093.8504638671875,2440.988037109375 1178.9677734375,2355.870849609375 1087.7706298828125,2240.3544921875 1008.733154296875,2136.997802734375 1014.8129272460938,2015.4014892578125 1124.24951171875,1924.204345703125 1093.8504638671875,1784.3687744140625 1057.37158203125,1869.486083984375 966.1744384765625,1942.44384765625 881.05712890625,1808.68798828125 874.9773559570312,1808.68798828125" ana="#merman"/>
-			<zone xml:id="f0021_z009" points="3349.45947265625,1918.12451171875 3185.3046875,1784.3687744140625 3197.46435546875,1893.8052978515625 3312.980712890625,1972.8428955078125 3331.22021484375,2088.359130859375 3258.262451171875,2191.716064453125 3167.065185546875,2319.391845703125 3227.86328125,2434.908203125 3410.257568359375,2477.467041015625 3556.173095703125,2319.391845703125 3489.295166015625,2185.63623046875 3483.21533203125,1966.7630615234375 3513.614501953125,1820.84765625 3385.9384765625,1808.68798828125 3361.619140625,1845.1668701171875 3355.539306640625,1845.1668701171875" ana="#merman"/>
-			<zone xml:id="f0021_z010" points="1308.74658203125,1780.3123779296875 1228.4930419921875,2101.326416015625 1126.352294921875,1940.8193359375 1140.94384765625,1721.9462890625 943.9580078125,1634.39697265625 1162.8311767578125,1597.9180908203125 1301.4508056640625,1524.96044921875 1337.9296875,1685.4674072265625 1337.9296875,1700.0589599609375 1330.6339111328125,1700.0589599609375" ana="#bird"/>
-			<zone xml:id="f0021_z011" points="3285.900390625,1714.6505126953125 3278.604736328125,1714.6505126953125 3198.351318359375,1714.6505126953125 3096.21044921875,1773.0166015625 3191.055419921875,1999.185546875 3103.506103515625,2021.0728759765625 3110.802001953125,2115.91796875 3023.252685546875,1911.6363525390625 2913.816162109375,1780.3123779296875 2855.449951171875,1670.8758544921875 2921.11181640625,1656.2843017578125 2935.703369140625,1554.1435546875 3088.91455078125,1605.2138671875 3081.618896484375,1605.2138671875" ana="#bird"/>
 			<zone xml:id="f0021_z012" points="1410.8873291015625,4304.64892578125 1585.98583984375,4494.33935546875 1739.197021484375,4596.47998046875 1527.6197509765625,4581.88818359375 1491.140869140625,4632.958984375 1425.4788818359375,4632.958984375 1483.8450927734375,4552.70556640625 1418.18310546875,4567.296875 1308.74658203125,4632.958984375 1374.4085693359375,4530.81787109375 1221.1973876953125,4384.90283203125 1330.6339111328125,4363.01513671875 1330.6339111328125,4268.17041015625 1264.971923828125,4275.4658203125 1213.901611328125,4246.283203125 1323.338134765625,4202.50830078125 1352.521240234375,4202.50830078125 1403.591552734375,4282.76171875 1410.8873291015625,4311.94482421875 1403.591552734375,4311.94482421875" ana="#bird"/>
 			<zone xml:id="f0021_z013" points="2972.182373046875,4304.64892578125 2964.886474609375,4377.60693359375 2891.928955078125,4384.90283203125 2782.4921875,4465.15625 2658.464111328125,4552.70556640625 2811.67529296875,4560.0009765625 2840.8583984375,4589.18408203125 2855.449951171875,4632.958984375 2913.816162109375,4618.3671875 2862.745849609375,4560.0009765625 2928.40771484375,4538.11376953125 2979.47802734375,4618.3671875 2972.182373046875,4530.81787109375 3067.02734375,4472.45166015625 3096.21044921875,4414.08544921875 3023.252685546875,4392.1982421875 3037.84423828125,4290.0576171875 3110.802001953125,4355.7197265625 3088.91455078125,4275.4658203125 3030.548583984375,4238.9873046875 2964.886474609375,4260.87451171875 2957.5908203125,4260.87451171875" ana="#bird"/>
 			<zone xml:id="f0021_z014" ulx="2086.558349609375" uly="295.0625915527344" lrx="2244.63330078125" lry="568.6539916992188" ana="#human_mask"/>
 			<zone xml:id="f0021_z015" ulx="2134.436767578125" uly="4500.4853515625" lrx="2219.55419921875" lry="4658.560546875" ana="#human_mask"/>
-			<zone xml:id="f0021_z016" points="936.7144165039062,3704.030517578125 936.7144165039062,3849.94580078125 924.5548095703125,3922.903564453125 1143.427978515625,3916.82373046875 1210.3057861328125,3995.861328125 1325.822265625,4032.340087890625 1113.0289306640625,4038.419921875 821.1980590820312,4038.419921875 857.6769409179688,3819.546875 900.235595703125,3679.711181640625 839.4375,3685.791015625 906.3153686523438,3661.4716796875 900.235595703125,3661.4716796875" ana="#console"/>
-			<zone xml:id="f0021_z017" points="3344.31884765625,3892.504638671875 3161.924560546875,3892.504638671875 3076.80712890625,4026.26025390625 3471.994873046875,4044.499755859375 3441.595703125,3898.584228515625 3380.797607421875,3770.908447265625 3429.43603515625,3728.349609375 3465.9150390625,3679.711181640625 3405.116943359375,3673.63134765625 3344.31884765625,3734.429443359375 3362.55810546875,3843.865966796875 3362.55810546875,3886.4248046875 3356.478271484375,3886.4248046875" ana="#console"/>
 			<zone xml:id="f0021_z018" points="1402.86474609375,4862.75634765625 1433.2637939453125,4795.87841796875 1512.3013916015625,4850.5966796875 1615.6580810546875,4820.19775390625 1639.977294921875,4783.71923828125 1639.977294921875,4838.4375 1682.5360107421875,4838.4375 1658.216796875,4747.240234375 1621.7379150390625,4789.798828125 1542.700439453125,4814.1181640625 1445.4234619140625,4765.4794921875 1415.0244140625,4783.71923828125 1415.0244140625,4789.798828125 1408.944580078125,4789.798828125" ana="#swag"/>
 			<zone xml:id="f0021_z019" points="2600.587158203125,4850.5966796875 2624.906494140625,4838.4375 2618.82666015625,4801.95849609375 2667.465087890625,4838.4375 2716.103515625,4838.4375 2789.061279296875,4838.4375 2819.460205078125,4789.798828125 2837.69970703125,4850.5966796875 2862.01904296875,4838.4375 2843.779541015625,4759.39990234375 2795.14111328125,4789.798828125 2740.4228515625,4808.0380859375 2667.465087890625,4789.798828125 2618.82666015625,4759.39990234375 2594.50732421875,4795.87841796875 2612.746826171875,4814.1181640625 2606.6669921875,4814.1181640625" ana="#swag"/>
-			<zone xml:id="f0021_z020" points="1632.1163330078125,424.09228515625 1565.2384033203125,630.8057861328125 1717.233642578125,563.9278564453125 1790.19140625,612.5663452148438 1863.1490478515625,758.4817504882812 1930.0269775390625,442.3316955566406 1802.3509521484375,375.45379638671875 1644.2760009765625,418.0124816894531 1638.1961669921875,418.0124816894531" ana="#stringed"/>
-			<zone xml:id="f0021_z021" points="2519.7685546875,703.7634887695312 2629.205078125,612.5663452148438 2732.561767578125,691.6038818359375 2756.881103515625,430.1720886230469 2477.209716796875,387.6134338378906 2386.0126953125,576.0875244140625 2489.369384765625,691.6038818359375" ana="#stringed"/>
-			<zone xml:id="f0021_z024" ulx="1745.1763916015625" uly="1773.116455078125" lrx="1796.246826171875" lry="1999.2852783203125" ana="#spear"/>
-			<zone xml:id="f0021_z025" ulx="1540.894775390625" uly="2269.228759765625" lrx="1759.7679443359375" lry="2582.947021484375" ana="#clothing"/>
-			<zone xml:id="f0021_z028" ulx="1593.689453125" uly="1964.188720703125" lrx="1830.802001953125" lry="2518.667236328125" ana="#clothed_man"/>
-			<zone xml:id="f0021_z027" points="1859.9849853515625,2186.709716796875,2002.2525634765625,2142.93505859375,2056.970947265625,2266.963134765625,2082.506103515625,2380.047607421875,2118.98486328125,2463.948974609375,2126.280517578125,2369.10400390625,2155.463623046875,2299.794189453125,2275.843994140625,2263.315185546875,2374.3369140625,2314.3857421875,2429.05517578125,2339.9208984375,2505.66064453125,2394.63916015625,2483.7734375,2423.822265625,2450.9423828125,2423.822265625,2410.815673828125,2405.582763671875,2396.22412109375,2336.27294921875,2356.097412109375,2339.9208984375,2356.097412109375,2442.0615234375,2432.702880859375,2617.16015625,2392.576171875,2642.6953125,2370.68896484375,2646.34326171875,2250.308837890625,2657.286865234375,2283.1396484375,2566.08984375,2290.435546875,2500.427734375,2210.181884765625,2482.1884765625,2104.393310546875,2471.24462890625,2005.900390625,2456.653076171875,1929.2947998046875,2438.413818359375,1911.055419921875,2518.667236328125,1863.6329345703125,2547.850341796875,1867.28076171875,2420.17431640625,1834.4498291015625,2339.9208984375,1918.3511962890625,2321.681396484375,1834.4498291015625,2241.427978515625,1921.9990234375,2121.047607421875,1973.0694580078125,2150.230712890625" ana="#horse"/>
-			<zone xml:id="f0021_z031" ulx="2042.73193359375" uly="2017.599365234375" lrx="2237.511474609375" lry="2271.001953125" ana="#clothed_man"/>
-			<zone xml:id="f0021_z032" ulx="2517.854248046875" uly="2080.7001953125" lrx="2730.59912109375" lry="2354.904541015625" ana="#clothed_man"/>
-			<zone xml:id="f0021_z022" ulx="2658.09326171875" uly="2016.74755859375" lrx="2723.75537109375" lry="2089.705322265625" ana="#helmet"/>
 			<zone xml:id="f0021_z034" ulx="890.5025024414062" uly="2792.33203125" lrx="1174.5751953125" lry="3280.354248046875" ana="#candelabra"/>
-			<zone xml:id="f0021_z035" ulx="3155.800048828125" uly="2879.739013671875" lrx="3425.304931640625" lry="3265.786376953125" ana="#candelabra"/>
 			<zone xml:id="f0021_z036" points="1593.8270263671875,3363.35107421875 1593.8270263671875,3356.067138671875 1666.666259765625,3727.546630859375 1856.0479736328125,4106.310546875 1972.5906982421875,4179.1494140625 1819.62841796875,3916.928466796875 1681.2340087890625,3487.177490234375 1644.814453125,3319.6474609375 1637.530517578125,3319.6474609375" ana="#string_of_beads"/>
-			<zone xml:id="f0021_z037" points="2555.303955078125,3880.509033203125 2307.650634765625,4142.72998046875 2336.786376953125,4179.1494140625 2577.155517578125,3931.496337890625 2657.278564453125,3552.732666015625 2686.414306640625,3341.499267578125 2599.00732421875,3312.363525390625 2599.00732421875,3545.448974609375 2569.87158203125,3800.385986328125 2562.587646484375,3800.385986328125" ana="#string_of_beads"/>
-			<zone xml:id="f0021_z038" points="1657.5596923828125,622.007568359375 1657.5596923828125,629.29150390625 1154.969482421875,1051.758544921875 1307.9317626953125,1124.59765625 1613.856201171875,898.7963256835938 1759.534423828125,607.4397583007812" ana="#string_of_beads"/>
 			<zone xml:id="f0021_z039" points="2597.1845703125,709.41455078125 2910.39306640625,1139.16552734375 3158.046142578125,1146.449462890625 2815.7021484375,876.944580078125 2699.159423828125,672.9949951171875 2691.87548828125,672.9949951171875" ana="#string_of_beads"/>
-			<zone xml:id="f0021_z040" ulx="1861.50927734375" uly="3346.191650390625" lrx="1978.0518798828125" lry="3666.68408203125" ana="#angel"/>
-			<zone xml:id="f0021_z041" ulx="2313.112060546875" uly="3317.05615234375" lrx="2451.50634765625" lry="3644.832275390625" ana="#angel"/>
+			<zone xml:id="f0021_z021" points="2519.7685546875,703.7634887695312 2629.205078125,612.5663452148438 2732.561767578125,691.6038818359375 2756.881103515625,430.1720886230469 2477.209716796875,387.6134338378906 2386.0126953125,576.0875244140625 2489.369384765625,691.6038818359375" ana="string"/>
+			<zone xml:id="f0021_z020" points="1632.1163330078125,424.09228515625 1565.2384033203125,630.8057861328125 1717.233642578125,563.9278564453125 1790.19140625,612.5663452148438 1863.1490478515625,758.4817504882812 1930.0269775390625,442.3316955566406 1802.3509521484375,375.45379638671875 1644.2760009765625,418.0124816894531 1638.1961669921875,418.0124816894531" ana=""/>
+			<zone xml:id="f0021_z040" ulx="1861.50927734375" uly="3346.191650390625" lrx="1978.0518798828125" lry="3666.68408203125" ana="#nude_man"/>
+			<zone xml:id="f0021_z041" ulx="2313.112060546875" uly="3317.05615234375" lrx="2451.50634765625" lry="3644.832275390625" ana="#nude_man"/>
+			<zone xml:id="f0021_z007" points="2869.154541015625,3462.39599609375 2796.197021484375,3602.231689453125 2723.2392578125,3693.4287109375 2869.154541015625,3669.109619140625 2850.915283203125,3833.264404296875 2692.840087890625,3967.020263671875 2668.52099609375,4137.2548828125 2467.88720703125,4149.41455078125 2401.00927734375,4295.330078125 2486.126708984375,4331.80859375 2595.563232421875,4234.53173828125 2674.600830078125,4204.1328125 2753.63818359375,4295.330078125 2674.600830078125,4416.92626953125 2711.07958984375,4514.203125 2777.95751953125,4374.3671875 2814.436279296875,4252.77099609375 2923.873046875,4191.97314453125 2893.473876953125,4052.137451171875 3033.3095703125,4046.0576171875 3075.8681640625,3894.0625 3069.788330078125,3699.508544921875 3063.70849609375,3559.6728515625 3252.1826171875,3456.316162109375 3100.1875,3450.236328125 2960.351806640625,3334.719970703125 2881.314208984375,3389.438232421875 2875.234375,3389.438232421875" ana="#hybrid_unknown"/>
+			<zone xml:id="f0021_z006" points="1379.6014404296875,3322.560302734375 1379.6014404296875,3328.64013671875 1288.404296875,3413.757568359375 1318.8033447265625,3517.1142578125 1093.8504638671875,3511.034423828125 1294.484130859375,3596.15185546875 1361.362060546875,3693.4287109375 1428.239990234375,3839.34423828125 1294.484130859375,3979.1796875 1385.6812744140625,4088.616455078125 1525.516845703125,4210.21240234375 1616.7139892578125,4337.888671875 1677.5120849609375,4429.08544921875 1756.5496826171875,4295.330078125 1969.3428955078125,4343.96826171875 1902.465087890625,4173.73388671875 1793.0284423828125,4222.3720703125 1641.033203125,4125.09521484375 1622.7938232421875,3930.541259765625 1574.1553955078125,3742.067138671875 1592.394775390625,3650.8701171875 1458.6390380859375,3517.1142578125 1416.080322265625,3365.119140625 1410.00048828125,3365.119140625" ana="#hybrid_unknown"/>
+			<zone xml:id="f0021_z008" points="814.1792602539062,1826.9273681640625 814.1792602539062,1833.0072021484375 765.540771484375,1948.5235595703125 862.8176879882812,1978.922607421875 868.8975219726562,2124.838134765625 832.4186401367188,2252.51416015625 735.1417236328125,2064.0400390625 704.74267578125,2191.716064453125 765.540771484375,2282.9130859375 777.7003784179688,2428.82861328125 911.4561767578125,2428.82861328125 954.0148315429688,2355.870849609375 1093.8504638671875,2440.988037109375 1178.9677734375,2355.870849609375 1087.7706298828125,2240.3544921875 1008.733154296875,2136.997802734375 1014.8129272460938,2015.4014892578125 1124.24951171875,1924.204345703125 1093.8504638671875,1784.3687744140625 1057.37158203125,1869.486083984375 966.1744384765625,1942.44384765625 881.05712890625,1808.68798828125 874.9773559570312,1808.68798828125" ana="#hybrid_unknown"/>
+			<zone xml:id="f0021_z009" points="3349.45947265625,1918.12451171875 3185.3046875,1784.3687744140625 3197.46435546875,1893.8052978515625 3312.980712890625,1972.8428955078125 3331.22021484375,2088.359130859375 3258.262451171875,2191.716064453125 3167.065185546875,2319.391845703125 3227.86328125,2434.908203125 3410.257568359375,2477.467041015625 3556.173095703125,2319.391845703125 3489.295166015625,2185.63623046875 3483.21533203125,1966.7630615234375 3513.614501953125,1820.84765625 3385.9384765625,1808.68798828125 3361.619140625,1845.1668701171875 3355.539306640625,1845.1668701171875" ana="#hybrid_unknown"/>
+			<zone xml:id="f0021_z042" points="1023.4638671875,2469.56298828125 908.2257690429688,2553.37255859375 871.55908203125,2710.515380859375 997.2733764648438,2757.658203125 1143.9400634765625,2762.896240234375 1206.7972412109375,2616.2294921875 1102.0352783203125,2506.2294921875 1096.7972412109375,2506.2294921875" ana="#fire"/>
+			<zone xml:id="f0021_z035" ulx="3155.800048828125" uly="2879.739013671875" lrx="3425.304931640625" lry="3265.786376953125" ana="#candelabra"/>
+			<zone xml:id="f0021_z043" points="3315.515625,2504.11572265625,3219.48388671875,2608.877685546875,3210.753662109375,2800.941162109375,3420.277587890625,2818.4013671875,3429.0078125,2547.7666015625,3383.65185546875,2512.845947265625,3341.7060546875,2547.7666015625" ana=""/>
+			<zone xml:id="f0021_z044" ulx="748.8492431640625" uly="3316.0205078125" lrx="862.34130859375" lry="3717.607666015625" ana="#ribbon"/>
+			<zone xml:id="f0021_z045" ulx="3376.626708984375" uly="3359.671142578125" lrx="3542.499755859375" lry="3682.68701171875" ana="#ribbon"/>
+			<zone xml:id="f0021_z046" ulx="737.5000610351562" uly="1468.718994140625" lrx="863.2142944335938" lry="1793.4808349609375" ana="#ribbon"/>
+			<zone xml:id="f0021_z047" ulx="3367.023681640625" uly="1552.528564453125" lrx="3555.59521484375" lry="1814.4332275390625" ana="#ribbon"/>
+			<zone xml:id="f0021_z048" ulx="2057.5" uly="777.2904663085938" lrx="2267.023681640625" lry="1018.2428588867188" ana="#shield"/>
+			<zone xml:id="f0021_z038" points="1657.5596923828125,622.007568359375 1657.5596923828125,629.29150390625 1154.969482421875,1051.758544921875 1307.9317626953125,1124.59765625 1613.856201171875,898.7963256835938 1759.534423828125,607.4397583007812" ana="#string_of_beads"/>
+			<zone xml:id="f0021_z049" ulx="947.3738403320312" uly="1462.5184326171875" lrx="1576.86083984375" lry="1607.78466796875" ana="#string_of_beads"/>
+			<zone xml:id="f0021_z050" ulx="2751.09619140625" uly="1450.4129638671875" lrx="3253.475341796875" lry="1613.83740234375" ana="#string_of_beads"/>
+			<zone xml:id="f0021_z011" points="3285.900390625,1775.1781005859375,3278.604736328125,1775.1781005859375,3198.351318359375,1775.1781005859375,3096.21044921875,1833.544189453125,3191.055419921875,2059.713134765625,3103.506103515625,2081.6005859375,3110.802001953125,2176.445556640625,3023.252685546875,1972.1639404296875,2913.816162109375,1840.8399658203125,2855.449951171875,1731.4034423828125,2921.11181640625,1716.8118896484375,2935.703369140625,1614.671142578125,3088.91455078125,1665.741455078125,3081.618896484375,1665.741455078125" ana="#bird"/>
+			<zone xml:id="f0021_z010" points="1278.48291015625,1804.5233154296875,1198.2294921875,2125.537353515625,1096.088623046875,1965.0302734375,1110.6800537109375,1746.1572265625,913.6942749023438,1658.60791015625,1132.5675048828125,1622.1290283203125,1271.18701171875,1549.17138671875,1307.6656494140625,1709.6783447265625,1307.6656494140625,1724.2698974609375,1300.370361328125,1724.2698974609375" ana="#bird"/>
+			<zone xml:id="f0021_z054" ulx="1895.1600341796875" uly="3685.075439453125" lrx="2427.69970703125" lry="3951.34521484375" ana="#wagon"/>
+			<zone xml:id="f0021_z037" points="2597.251708984375,3798.033935546875,2349.598388671875,4060.257568359375,2378.734130859375,4096.673828125,2619.103271484375,3849.021240234375,2699.226318359375,3470.257568359375,2728.362060546875,3259.024169921875,2640.955078125,3229.888427734375,2640.955078125,3462.973876953125,2611.8193359375,3717.910888671875,2604.535400390625,3717.910888671875" ana="#string_of_beads"/>
+			<zone xml:id="f0021_z051" ulx="2032.1824951171875" uly="4116.3525390625" lrx="2311.547607421875" lry="4264.76513671875" ana="#cartouche"/>
+			<zone xml:id="f0021_z005" points="3058.512939453125,2817.936279296875 3055.47314453125,2814.896484375 3085.8720703125,2909.133544921875 3037.233642578125,2969.931640625 3073.712646484375,3082.407958984375 3104.111572265625,3170.565185546875 3025.073974609375,3216.163818359375 3073.712646484375,3267.84228515625 2936.916748046875,3255.6826171875 2866.9990234375,3194.884521484375 2866.9990234375,3283.041748046875 2727.163330078125,3258.722412109375 2417.09326171875,3264.80224609375 2684.604736328125,3109.76708984375 2839.639892578125,3052.009033203125 2924.75732421875,2890.89404296875 3055.47314453125,2772.337646484375 3052.43310546875,2772.337646484375" ana="#sphynx"/>
+			<zone xml:id="f0021_z052" ulx="1604.4046630859375" uly="973.4957885742188" lrx="1944.880859375" lry="1165.559326171875" ana="#cartouche"/>
+			<zone xml:id="f0021_z053" ulx="2416.309326171875" uly="1060.79736328125" lrx="2791.706298828125" lry="1191.749755859375" ana="#cartouche"/>
+			<zone xml:id="f0021_z016" points="936.7144165039062,3704.030517578125 936.7144165039062,3849.94580078125 924.5548095703125,3922.903564453125 1143.427978515625,3916.82373046875 1210.3057861328125,3995.861328125 1325.822265625,4032.340087890625 1113.0289306640625,4038.419921875 821.1980590820312,4038.419921875 857.6769409179688,3819.546875 900.235595703125,3679.711181640625 839.4375,3685.791015625 906.3153686523438,3661.4716796875 900.235595703125,3661.4716796875" ana="#chariot"/>
+			<zone xml:id="f0021_z017" points="3344.31884765625,3892.504638671875 3161.924560546875,3892.504638671875 3076.80712890625,4026.26025390625 3471.994873046875,4044.499755859375 3441.595703125,3898.584228515625 3380.797607421875,3770.908447265625 3429.43603515625,3728.349609375 3465.9150390625,3679.711181640625 3405.116943359375,3673.63134765625 3344.31884765625,3734.429443359375 3362.55810546875,3843.865966796875 3362.55810546875,3886.4248046875 3356.478271484375,3886.4248046875" ana="#chariot"/>
 			<zone xml:id="f0021_z033" points="1962.101806640625,1467.5906982421875 2474.95458984375,1509.7430419921875 2777.0458984375,1692.4029541015625 2980.781982421875,1980.443603515625 3072.112060546875,2261.458740234375 3044.010498046875,2521.39794921875 2952.6806640625,2802.4130859375 2762.995361328125,2985.072998046875 2446.85302734375,3174.75830078125 2074.5078125,3237.98681640625 1568.680419921875,3062.352294921875 1329.8175048828125,2767.286376953125 1238.487548828125,2310.636474609375 1386.0205078125,1853.9866943359375 1800.51806640625,1495.6922607421875 2151.787109375,1572.971435546875 2552.23388671875,1678.3521728515625 2812.1728515625,1931.265869140625 2924.5791015625,2261.458740234375 2861.3505859375,2675.956298828125 2608.436767578125,2949.9462890625 2109.634765625,3111.530029296875 1568.680419921875,2879.6923828125 1364.9444580078125,2472.22021484375 1435.1982421875,2050.697509765625 1744.31494140625,1692.4029541015625 2074.5078125,1544.8699951171875 2067.482421875,1544.8699951171875" ana="#cartouche"/>
-			<zone xml:id="f0021_z023" ulx="1883.7960205078125" uly="1787.7080078125" lrx="1993.232666015625" lry="2086.83447265625" ana="#axe"/>
 		</surface>
 	</facsimile>
 	<text xml:id="transcription">
