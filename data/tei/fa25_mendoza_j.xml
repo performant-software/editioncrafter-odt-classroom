@@ -529,11 +529,8 @@
 							<category n="pediment" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949e" xml:id="pediment">
 								<catDesc>pediment</catDesc>
 							</category>
-							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f">
+							<category n="arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f" xml:id="arch">
 								<catDesc>arch</catDesc>
-								<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
-									<catDesc>half_arch</catDesc>
-								</category>
 							</category>
 							<category n="niche" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a0" xml:id="niche">
 								<catDesc>niche</catDesc>
@@ -591,6 +588,9 @@
 							</category>
 							<category n="unpunched_rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94ccc5b2e05341c26f4b8" xml:id="unpunched_rivet_hole">
 								<catDesc>unpunched_rivet_hole</catDesc>
+							</category>
+							<category n="half_arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e94cde5b2e05341c26f4b9" xml:id="half_arch">
+								<catDesc>half_arch</catDesc>
 							</category>
 							<category n="dome" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e955265b2e05341c26f4c0" xml:id="dome">
 								<catDesc>dome</catDesc>
@@ -1010,6 +1010,14 @@
 		</encodingDesc>
 	</teiHeader>
 	<facsimile xml:id="prints">
+		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b2aa3da12d491d55f32">
+			<label>Nieuwigheden van de… (7)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/YnAYh"/>
+		</surface>
+		<surface xml:id="f0024" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa5c">
+			<label>Dieses Buch mit 40 … (24)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FB1676"/>
+		</surface>
 	</facsimile>
 	<text xml:id="transcription">
 		<body>
